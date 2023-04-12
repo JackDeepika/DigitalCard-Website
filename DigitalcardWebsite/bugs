@@ -1,0 +1,18 @@
+<class name="org.muviereck.mycard.TestCase.TC_CardsEdit_01"/>
+<class name="org.muviereck.mycard.TestCase.TC_Delete_01"/>
+<class name="org.muviereck.mycard.TestCase.TC_Design_01"/>
+<class name="org.muviereck.mycard.TestCase.TC_previewEdit_01"/>
+<class name="org.muviereck.mycard.TestCase.TC_sendcard_01"/>
+
+<class name="org.muviereck.myorder.TestCase.TC_Action_01"/>
+<class name="org.muviereck.myorder.TestCase.TC_MyOrderContains_01"/>
+<class name="org.muviereck.myorder.TestCase.TC_Record_01"/>
+
+<class name="org.muviereck.newcardsTestCase.TC_ActionNewcard_01"/>
+<class name="org.muviereck.newcardsTestCase.TC_BusniessInfo_01"/>
+<class name="org.muviereck.newcardsTestCase.TC_Design_01"/>
+
+<class name="org.muviereck.ProfileTestCase.TC_EditProfile_01"/>
+
+<class name="org.muviereck.SignUPLoginTestcase.TC_login_01"/>
+<class name="org.muviereck.SignUPLoginTestcase.TC_SignUp_01"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [digital cards website]">
+  <test thread-count="5" name="cards(failed)">
+    <classes>
+      <class name="org.muviereck.newcardsTestCase.TC_ActionNewcard_01">
+        <methods>
+          <include name="newcard"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.muviereck.newcardsTestCase.TC_ActionNewcard_01 -->
+    </classes>
+  </test> <!-- cards(failed) -->
+</suite> <!-- Failed suite [digital cards website] -->

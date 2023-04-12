@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="digital cards website">
+<test name = "cards">
+<classes>
+
+<class name="org.muviereck.newcardsTestCase.TC_ActionNewcard_01"/>
+
+</classes>
+</test>
+</suite>
